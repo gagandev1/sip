@@ -1,0 +1,6 @@
+{
+  "name": "Sip",
+  "description": "Minimal and clean water-drinking reminder and health tracker",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

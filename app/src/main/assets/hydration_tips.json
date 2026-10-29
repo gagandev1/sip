@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "tip": "Start your morning with a glass of water to reactivate circulation and metabolism.",
+    "category": "Morning"
+  },
+  {
+    "id": 2,
+    "tip": "Drinking water 30 minutes before a meal can aid digestion and satiety.",
+    "category": "Digestion"
+  },
+  {
+    "id": 3,
+    "tip": "Mild dehydration often disguises itself as hunger or afternoon lethargy.",
+    "category": "Energy"
+  },
+  {
+    "id": 4,
+    "tip": "Your brain is ~75% water. Sipping regularly sustains focus and working memory.",
+    "category": "Focus"
+  },
+  {
+    "id": 5,
+    "tip": "Infusing water with fresh mint, lime, or cucumber provides natural electrolyte minerals.",
+    "category": "Flavor"
+  },
+  {
+    "id": 6,
+    "tip": "Electrolytes help your cells retain water efficiently during exercise and warm weather.",
+    "category": "Fitness"
+  },
+  {
+    "id": 7,
+    "tip": "Proper hydration cushions joint cartilage and reduces morning stiffness.",
+    "category": "Vitality"
+  },
+  {
+    "id": 8,
+    "tip": "Drinking water at room temperature is gentlest on your digestive tract.",
+    "category": "Wellness"
+  },
+  {
+    "id": 9,
+    "tip": "Even a 1.5% drop in body water can trigger headaches and tension.",
+    "category": "Health"
+  },
+  {
+    "id": 10,
+    "tip": "Small, frequent sips throughout the day absorb far better than chugging large amounts.",
+    "category": "Habit"
+  },
+  {
+    "id": 11,
+    "tip": "Hydrated skin cells retain moisture barrier resilience against dry indoor air.",
+    "category": "Skin"
+  },
+  {
+    "id": 12,
+    "tip": "Drinking a small glass 45 minutes before sleep prevents nighttime dehydration cramps.",
+    "category": "Sleep"
+  }
+]
